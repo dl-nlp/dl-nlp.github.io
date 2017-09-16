@@ -1,9 +1,68 @@
-## Welcome to GitHub Pages
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+Zeit: Mi. 9-11 (VL), Mi. 11-12 (Ü)
+Raum: 131
+Start: 19.10.2016
+
+
+##Aufteilung für die Bewertung
+
+Übungsblätter 40%
+Implementierung 20%
+Schriftliche Ausarbeitung 20% (Zu Abschnitten des Reports Namen des jeweiligen Autors angeben.)
+Präsentation 20%
+Abgabetermine:
+Implementierungen: 31.1.2017
+Schriftliche Ausarbeitungen: 21.2.2017
+
+The topics of this lecture are the foundations of deep learning, with a particular focus on practical aspects and applications to natural language processing and knowledge representation.
+
+
+##Topics
+Foundations of machine learning
+Loss functions
+linear regression
+logistic regression
+gradient-based optimization
+neural networks and backpropagation
+Deep learning tools
+Numpy
+Theano
+Keras
+Tensorflow
+Applications
+Relation extraction
+Knowledge graph embeddings
+Practical projects (NLP related, to be agreed on during the course)
+##Presentations
+
+
+Relation Pattern Correspondences with CNNs
+Daria Palchik, Elena Neuburg, Marina Sedinkina
+Presenation: 1.2.
+Relation Pattern Correspondences with LSTMS; Relation Classification with Recursive CNNs
+Dan Lüdtke, Diego Martin Arroyo, Karl-Heinz Krachenfels
+Presentation: 1.2.
+Word2Vec Comparison: Binary Hierarchical Softmax
+Nicolai Ruhnau, Stefan Schweter
+Presentation: 1.2.
+Word2Vec Comparison: Two-Level Hierarchical Softmax
+Eduard Saller, Kevin Falkner
+Presentation: 8.2
+Relation Prediction without Tagged Candidates
+Costanza Conforti, Nina Pörner, Raphael Höps
+Presentation: 8.2.
+Irony and Sarcasm Prediction with LSTM and CNN
+Isabell Krammer, Jennifer Ling, Fedor Uvarov
+Presentation: 8.2.
+Language Modeling for Armenian
+Christian Meyer, Tsovinar Sekhleyan
+Presentation: 8.2
+
+
+Course Material:
+| Date | slides | homework | materials |
+|----------|:-------------:|:------:|:-----------------------------------------------------|
+| Oct. 19, 2016 | Machine learning overview I (pdf) | materials |
+ 
 
 You can use the [editor on GitHub](https://github.com/dl-nlp/dl-nlp.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
