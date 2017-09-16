@@ -3,7 +3,7 @@ Raum: 131
 Start: 19.10.2016
 
 
-##Aufteilung für die Bewertung
+## Aufteilung für die Bewertung
 
 Übungsblätter 40%
 Implementierung 20%
@@ -16,7 +16,7 @@ Schriftliche Ausarbeitungen: 21.2.2017
 The topics of this lecture are the foundations of deep learning, with a particular focus on practical aspects and applications to natural language processing and knowledge representation.
 
 
-##Topics
+## Topics
 Foundations of machine learning
 Loss functions
 linear regression
@@ -32,7 +32,7 @@ Applications
 Relation extraction
 Knowledge graph embeddings
 Practical projects (NLP related, to be agreed on during the course)
-##Presentations
+## Presentations
 
 
 Relation Pattern Correspondences with CNNs
@@ -58,7 +58,7 @@ Christian Meyer, Tsovinar Sekhleyan
 Presentation: 8.2
 
 
-Course Material:
+## Course Material
 | Date | slides | homework | materials |
 |----------|:-------------:|:------:|:-----------------------------------------------------|
 | Oct. 19, 2016 | Machine learning overview I (pdf) | materials |
