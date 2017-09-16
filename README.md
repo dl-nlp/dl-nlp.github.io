@@ -45,14 +45,14 @@ The topics of this lecture are the foundations of deep learning, with a particul
 | Date | slides | homework | materials |
 |----------|:-------------:|:------:|:-----------------------------------------------------|
 | Oct. 19, 2016 | Machine learning overview I [test_pdf](1503.02531.pdf) | homework | |
-| Oct. 19, 2016 |Machine learning overview IIa <br>Introduction to Numpy Ia |  | |
+| Oct. 19, 2016 | Machine learning overview IIa <br>Introduction to Numpy Ia | | |
 | Oct. 19, 2016 | Machine learning overview II (pdf) <br>Introduction to Numpy I (pdf)|  ||
 | Oct. 19, 2016 | Machine learning overview III (pdf) <br> Introduction to Theano I |  ||
 | Oct. 19, 2016 | Introduction to Theano I / CNNs (pdf) |  ||
 | Oct. 19, 2016 | Introduction to Theano II / RNNs (pdf) |  ||
 | Oct. 19, 2016 | Introduction to Keras / Hyper-parameters (pdf) |  ||
 | Oct. 19, 2016 | Knowledge Base Population (pdf) |  ||
-| Oct. 19, 2016 |  Word2Vec (pdf) <br> Proposed project topics (pdf) |  ||
+| Oct. 19, 2016 | Word2Vec (pdf) <br> Proposed project topics (pdf) |  ||
 | Oct. 19, 2016 | Project Topics Q&A |  ||
 | Oct. 19, 2016 | Tensorflow |  ||
 | Oct. 19, 2016 | Neural Attention |  ||
@@ -61,6 +61,6 @@ The topics of this lecture are the foundations of deep learning, with a particul
 | Oct. 19, 2016 | Project Presentations |  ||
 
 
-More materials:
-Bengio: Practical recommendations ... [arXiv](https://arxiv.org/abs/1206.5533)
-Socher: Neural Tips and Tricks [pdf](http://cs224d.stanford.edu/lectures/CS224d-Lecture6.pdf)
+## More materials
+- Bengio: Practical recommendations ... [arXiv](https://arxiv.org/abs/1206.5533)
+- Socher: Neural Tips and Tricks [pdf](http://cs224d.stanford.edu/lectures/CS224d-Lecture6.pdf)
