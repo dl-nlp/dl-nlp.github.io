@@ -44,7 +44,7 @@ The topics of this lecture are the foundations of deep learning, with a particul
 
 | Date | slides | homework | materials |
 |----------|:-------------:|:------:|:-----------------------------------------------------|
-| Oct. 19, 2016 | Machine learning overview I [test_pdf](https://github.com/dl-nlp/dl-nlp.github.io/blob/master/1503.02531.pdf) | materials |
+| Oct. 19, 2016 | Machine learning overview I [test_pdf](1503.02531.pdf) | materials |
  
 
 
