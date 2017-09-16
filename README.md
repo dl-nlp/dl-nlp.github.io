@@ -2,9 +2,6 @@
 - Raum: 131
 - Start: 19.10.2016
 
-![Image](noLicense.jpg)
-`
-
 ## Topics
 
 The topics of this lecture are the foundations of deep learning, with a particular focus on practical aspects and applications to natural language processing and knowledge representation.
