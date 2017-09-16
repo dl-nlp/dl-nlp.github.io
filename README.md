@@ -43,7 +43,7 @@ The topics of this lecture are the foundations of deep learning, with a particul
 ## Course Material
 
 | Date | slides | homework | materials |
-|-----------------------------|:--------------------------------:|:------:|:--------------------------------------------------------------------------------|
+|-----------------------------|:--------------------------------:|:------:|:-------------------------------------------------------------------|
 | Oct. 18, 2017 | Machine learning overview I [link](1503.02531.pdf) <a href="1503.02531.pdf" download> download </a> | homework | |
 | Oct. 25, 2017 | Machine learning overview IIa <br>Introduction to Numpy Ia | | |
 | Nov. 1, 2017 | Machine learning overview II (pdf) <br>Introduction to Numpy I (pdf)|  ||
