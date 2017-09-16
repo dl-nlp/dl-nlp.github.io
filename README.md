@@ -32,7 +32,7 @@ The topics of this lecture are the foundations of deep learning, with a particul
 
 ## Abgabetermine
 - Implementierungen: 31.1.2018
-- Schriftliche Ausarbeitungen: 21.2.2018
+- Schriftliche Ausarbeitungen: 26.2.2018
 
 ## Presentations
 
