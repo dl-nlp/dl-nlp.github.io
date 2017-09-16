@@ -32,33 +32,17 @@ Applications
 Relation extraction
 Knowledge graph embeddings
 Practical projects (NLP related, to be agreed on during the course)
+
 ## Presentations
 
 
 Relation Pattern Correspondences with CNNs
 Daria Palchik, Elena Neuburg, Marina Sedinkina
 Presenation: 1.2.
-Relation Pattern Correspondences with LSTMS; Relation Classification with Recursive CNNs
-Dan Lüdtke, Diego Martin Arroyo, Karl-Heinz Krachenfels
-Presentation: 1.2.
-Word2Vec Comparison: Binary Hierarchical Softmax
-Nicolai Ruhnau, Stefan Schweter
-Presentation: 1.2.
-Word2Vec Comparison: Two-Level Hierarchical Softmax
-Eduard Saller, Kevin Falkner
-Presentation: 8.2
-Relation Prediction without Tagged Candidates
-Costanza Conforti, Nina Pörner, Raphael Höps
-Presentation: 8.2.
-Irony and Sarcasm Prediction with LSTM and CNN
-Isabell Krammer, Jennifer Ling, Fedor Uvarov
-Presentation: 8.2.
-Language Modeling for Armenian
-Christian Meyer, Tsovinar Sekhleyan
-Presentation: 8.2
 
 
 ## Course Material
+
 | Date | slides | homework | materials |
 |----------|:-------------:|:------:|:-----------------------------------------------------|
 | Oct. 19, 2016 | Machine learning overview I (pdf) | materials |
