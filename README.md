@@ -2,6 +2,9 @@
 - Raum: 131
 - Start: 19.10.2016
 
+![Image](noLicense.jpg)
+`
+
 ## Topics
 
 The topics of this lecture are the foundations of deep learning, with a particular focus on practical aspects and applications to natural language processing and knowledge representation.
@@ -38,7 +41,7 @@ The topics of this lecture are the foundations of deep learning, with a particul
 
 | Date | Team | Topic |
 |----------|:-------------:|:------|
-| Oct. 19, 2016 | Hans-Dieter Rolf-Peter | What is Deep Learning? |
+| **Oct. 19, 2016** | _Hans-Dieter_ _Rolf-Peter_ | `What is Deep Learning?` |
 
 ## Course Material
 
@@ -47,19 +50,3 @@ The topics of this lecture are the foundations of deep learning, with a particul
 | Oct. 19, 2016 | Machine learning overview I [test_pdf](1503.02531.pdf) | materials |
  
 
-
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-`
