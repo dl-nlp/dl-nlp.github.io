@@ -1,6 +1,6 @@
 - Zeit: Mi. 9-11 (VL), Mi. 11-12 (Ü)
 - Raum: 131
-- Start: 19.10.2016
+- Start: 18.10.2017
 
 ## Topics
 
