@@ -1,9 +1,10 @@
 ## Welcome to GitHub Pages
-|   |   |   |   |   |
-|---|---|---|---|---|
-| eins  |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
+
 You can use the [editor on GitHub](https://github.com/dl-nlp/dl-nlp.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
