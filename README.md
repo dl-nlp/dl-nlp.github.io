@@ -1,19 +1,6 @@
-Zeit: Mi. 9-11 (VL), Mi. 11-12 (Ü)
-Raum: 131
-Start: 19.10.2016
-
-
-## Aufteilung für die Bewertung
-
-Übungsblätter 40%
-Implementierung 20%
-Schriftliche Ausarbeitung 20% (Zu Abschnitten des Reports Namen des jeweiligen Autors angeben.)
-Präsentation 20%
-Abgabetermine:
-Implementierungen: 31.1.2017
-Schriftliche Ausarbeitungen: 21.2.2017
-
-
+- Zeit: Mi. 9-11 (VL), Mi. 11-12 (Ü)
+- Raum: 131
+- Start: 19.10.2016
 
 ## Topics
 
@@ -22,18 +9,30 @@ The topics of this lecture are the foundations of deep learning, with a particul
 - Foundations of machine learning
 - Loss functions
 - linear regression
-logistic regression
-gradient-based optimization
-neural networks and backpropagation
-Deep learning tools
-Numpy
-Theano
-Keras
-Tensorflow
-Applications
-Relation extraction
-Knowledge graph embeddings
-Practical projects (NLP related, to be agreed on during the course)
+- logistic regression
+- gradient-based optimization
+- neural networks and backpropagation
+- Deep learning tools
+- Numpy
+- Theano
+- Keras
+- Tensorflow
+- Applications
+- Relation extraction
+- Knowledge graph embeddings
+- Practical projects (NLP related, to be agreed on during the course)
+
+
+## Aufteilung für die Bewertung
+
+- Übungsblätter: Bis zu 0,3 Notenpunkte bei bestandenem Projekt
+- Implementierung: 1/3 Gesamtnote 
+- Schriftliche Ausarbeitung: 1/3 Gesamtnote (Zu Abschnitten des Reports Namen des jeweiligen Autors angeben.)
+- Präsentation: 1/3 Gesamtnote
+
+## Abgabetermine
+- Implementierungen: 31.1.2018
+- Schriftliche Ausarbeitungen: 21.2.2018
 
 ## Presentations
 
