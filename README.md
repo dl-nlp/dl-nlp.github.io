@@ -27,33 +27,20 @@ The topics of this lecture are the foundations of deep learning, with a particul
 
 tbd
 
-## Abgabetermine
-- Implementierungen: 31.1.2018
-- Schriftliche Ausarbeitungen: 26.2.2018
-
-## Presentations
-
-| Date | Team | Topic |
-|----------|:-------------:|:------|
-| **Oct. 19, 2016** | _Hans-Dieter_ _Rolf-Peter_ | `What is Deep Learning?` |
+## Abgabetermine (vorläufig)
+- Implementierungen: 31.1.2018?
+- Schriftliche Ausarbeitungen: 20.2.2018?
 
 ## Course Material
 
 | Date | slides | homework | materials |
 |-----------------------------|:--------------------------------:|:------:|:-------------------------------------------------------------------|
-| Oct. 18, 2017 | Machine learning overview I [link](1503.02531.pdf) <a href="1503.02531.pdf" download> download </a> | homework | |
-| Oct. 25, 2017 | Machine learning overview IIa <br>Introduction to Numpy Ia | | |
-| Nov. 8, 2017 | Machine learning overview II (pdf) <br>Introduction to Numpy I (pdf)|  ||
-| Nov. 15, 2017 | Machine learning overview III (pdf) <br> Introduction to Theano I |  ||
-| Nov. 22, 2017 | Introduction to Theano I / CNNs (pdf) |  |MNIST example code [github](https://github.com/Newmu/Theano-Tutorials)|
-| Nov. 29, 2017 | Introduction to Theano II / RNNs (pdf) |  ||
-| Dec. 6, 2017 | Introduction to Keras / Hyper-parameters (pdf) |  |	 Hyper-parameter optimization example script:|
-| Dec. 13, 2017 | Knowledge Base Population (pdf) |  ||
-| Dec. 20, 2017 | Word2Vec (pdf) <br> Proposed project topics (pdf) |  | Mikolov et al.: Distributed representations of words and phrases and their compositionality. [pdf](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) <br> Mikolov et al.: Efficient Estimation of Word Representations in Vector Space.[pdf](https://arxiv.org/pdf/1301.3781.pdf) <br> Goldberg & Levy: Word2Vec Explained. [pdf](https://arxiv.org/pdf/1402.3722v1.pdf) |
-| Jan. 10, 2018 | Project Topics Q&A |  |	 Intro to Tensorflow [Stanford](https://cs224d.stanford.edu/lectures/CS224d-Lecture7.pdf)|
-| Jan. 17, 2018 | Tensorflow |  ||
-| Jan. 24, 2018 | Neural Attention |  ||
-| Jan. 31, 2018 | Neural Machine Translation|  ||
+| Oct. 18, 2017 | Machine learning overview [pdf](ml_basics_I.pdf)| homework [pdf](ex01_linalg.pdf) | |
+| Oct. 25, 2017 | Machine learning overview II | | |
+| Nov. 8, 2017 | Machine learning overview III (pdf) <br>Introduction to Numpy (pdf)|  ||
+| Nov. 15, 2017 | Machine learning overview IV (pdf) <br> Introduction to Theano |  ||
+| ... | TBD |  ||
+| Jan. 31, 2018 | Project Presentations|  ||
 | Feb. 7, 2018 | Project Presentations |  ||
 
 
