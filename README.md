@@ -34,8 +34,8 @@ The topics of this lecture are the foundations of deep learning, with a particul
 | Date | slides | homework | materials |
 |-----------------------------|:--------------------------------:|:------:|:-------------------------------------------------------------------|
 | Oct. 18, 2017 | Machine learning overview [pdf](ml_basics_I.pdf)| homework [pdf](ex01_linalg.pdf) | |
-| Oct. 25, 2017 | Machine learning overview II | | |
-| Nov. 8, 2017 | Machine learning overview III (pdf) <br>Introduction to Numpy (pdf)|  ||
+| Oct. 25, 2017 | Machine learning overview | homework [pdf](ex02_probability.pdf) | |
+| Nov. 8, 2017 | Machine learning overview II (pdf) <br>Introduction to Numpy (pdf)|  ||
 | Nov. 15, 2017 | Machine learning overview IV (pdf) <br> Introduction to Theano |  ||
 | ... | TBD |  ||
 | Jan. 31, 2018 | Project Presentations|  ||
