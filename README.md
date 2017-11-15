@@ -36,7 +36,7 @@ The topics of this lecture are the foundations of deep learning, with a particul
 | Oct. 18, 2017 | Machine learning overview [pdf](ml_basics_I.pdf)| homework [pdf](ex01_linalg.pdf) | |
 | Oct. 25, 2017 | Machine learning overview | homework [pdf](ex02_probability.pdf) | |
 | Nov. 8, 2017 | Machine learning overview II [pdf](ml_basics_II_short.pdf) <br>Introduction to Numpy [pdf](numpy_intro.pdf)| homework [ipynb](numpy.ipynb)  ||
-| Nov. 15, 2017 | Machine learning overview III [pdf](ml_basics_III.pdf) <br> Introduction to Pytorch[pdf](pytorch_intro.pdf) | homework [pdf](pytorch_intro.ipynb)  ||
+| Nov. 15, 2017 | Machine learning overview III [pdf](ml_basics_III.pdf) <br> Introduction to Pytorch [pdf](pytorch_intro.pdf) | homework [pdf](pytorch_intro.ipynb)  ||
 | ... | TBD |  ||
 | Jan. 31, 2018 | Project Presentations|  ||
 | Feb. 7, 2018 | Project Presentations |  ||
