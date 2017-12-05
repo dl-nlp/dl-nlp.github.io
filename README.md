@@ -39,7 +39,7 @@ The topics of this lecture are the foundations of deep learning, with a particul
 | Nov. 15, 2017 | Machine learning overview III [pdf](ml_basics_III.pdf) <br> Introduction to Pytorch [pdf](pytorch_intro.pdf) | homework [ipynb](pytorch_intro.ipynb)  ||
 | Nov. 22, 2017 | Word2Vec [pdf](word2vec.pdf) [pdf](word2vec2.pdf) | homework [ipynb](Pytorch_wordEmbeddings.ipynb)||
 | Nov. 29, 2017 | RNN [pdf](rnn_main_ideas.pdf) [pdf](neural_networks.pdf) | homework [pdf](ex06_lstm.pdf)||
-||| homework [ipynb](argument_tagging.ipynb) [atis.json](atis.json)||
+| Dec. 6, 2017 || homework [ipynb](argument_tagging.ipynb) [atis.json](atis.json)||
 | ... | TBD |  ||
 | Jan. 31, 2018 | Project Presentations|  ||
 | Feb. 7, 2018 | Project Presentations |  ||
