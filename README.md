@@ -41,11 +41,13 @@ The topics of this lecture are the foundations of deep learning, with a particul
 | Nov. 29, 2017 | RNN [pdf](rnn_main_ideas.pdf) | homework [pdf](ex06_lstm.pdf)||
 | Dec. 6, 2017 | RNN/Keras [pdf](neural_networks.pdf) | homework [ipynb](argument_tagging.ipynb){:target="_blank"} [atis.json](atis.json){:target="_blank"}||
 | Dec. 13, 2017| CNN [pdf](convolution_pooling.pdf) [pptx](cnn.pptx)<br> Functional Keras |  homework [ipynb](Sentiment_lstm_cnn_name.ipynb) ||
+| Dec. 20, 2017| Projects [pdf](projects.pdf) | ||
 | ... | TBD |  ||
 | Jan. 31, 2018 | Project Presentations|  ||
 | Feb. 7, 2018 | Project Presentations |  ||
 
 
 ## More materials
+- Schmid: Usage of gpu resources in antarctica can be found at the end of the document [pdf](http://www.cis.uni-muenchen.de/~schmid/lehre/Experimente/Aufgaben/aufgabe8.pdf)
 - Bengio: Practical recommendations ... [arXiv](https://arxiv.org/abs/1206.5533)
 - Socher: Neural Tips and Tricks [pdf](http://cs224d.stanford.edu/lectures/CS224d-Lecture6.pdf)
