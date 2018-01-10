@@ -53,4 +53,4 @@ The topics of this lecture are the foundations of deep learning, with a particul
 - Schmid: Usage of gpu resources in antarctica can be found at the end of the document [pdf](http://www.cis.uni-muenchen.de/~schmid/lehre/Experimente/Aufgaben/aufgabe8.pdf)
 - Bengio: Practical recommendations ... [arXiv](https://arxiv.org/abs/1206.5533)
 - Socher: Neural Tips and Tricks [pdf](http://cs224d.stanford.edu/lectures/CS224d-Lecture6.pdf)
-- Musterloesungen: [tar.gz] (musterloesungen.tar.gz)
+- Musterloesungen: [tar.gz](musterloesungen.tar.gz)
