@@ -42,6 +42,7 @@ The topics of this lecture are the foundations of deep learning, with a particul
 | Dec. 6, 2017 | RNN/Keras [pdf](neural_networks.pdf) | homework [ipynb](argument_tagging.ipynb){:target="_blank"} [atis.json](atis.json){:target="_blank"}||
 | Dec. 13, 2017| CNN [pdf](convolution_pooling.pdf) [pptx](cnn.pptx)<br> Functional Keras |  homework [ipynb](Sentiment_lstm_cnn_name.ipynb) ||
 | Dec. 20, 2017| Projects [pdf](projects.pdf) | ||
+| Jan. 10, 2018| Hyperparameter [pdf](hyper_params.pdf) [py](hyperopt.py)| ||
 | ... | TBD |  ||
 | Jan. 31, 2018 | Project Presentations|  ||
 | Feb. 7, 2018 | Project Presentations |  ||
