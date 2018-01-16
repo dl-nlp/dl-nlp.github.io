@@ -25,7 +25,7 @@ The topics of this lecture are the foundations of deep learning, with a particul
 - Practical projects (NLP related, to be agreed on during the course)
 
 
-## Abgabetermine (vorläufig)
+## Abgabetermine
 - Implementierungen: 28.1.2018
 - Präsentationen am 31.1. und 7.2.
 - Schriftliche Ausarbeitungen: 20.2.2018
