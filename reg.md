@@ -1,36 +1,4 @@
-- Zeit: Mi. 9-11 (VL), Mi. 11-12 (Ü)
-- Raum: 131
-- Start: 18.10.2017
-
-Sie erreichen Dozent und Tutor unter  profilmodul1718 (at) cis (dot) lmu (dot) de
-
-## Topics
-
-The topics of this lecture are the foundations of deep learning, with a particular focus on practical aspects and applications to natural language processing and knowledge representation.
-
-- Foundations of machine learning
-- Loss functions
-- linear regression
-- logistic regression
-- gradient-based optimization
-- neural networks and backpropagation
-- Deep learning tools
-- Numpy
-- Theano
-- Keras
-- Tensorflow
-- Applications
-- Relation extraction
-- Knowledge graph embeddings
-- Practical projects (NLP related, to be agreed on during the course)
-
-
-## Abgabetermine
-- Implementierungen: 28.1.2018
-- Präsentationen am 31.1. und 7.2.
-- Schriftliche Ausarbeitungen: 20.2.2018
-
-## Course Material
+## Regularization 
 
 | Date | slides | homework | materials |
 |-----------------------------|:--------------------------------:|:------:|:-------------------------------------------------------------------|
@@ -49,10 +17,3 @@ The topics of this lecture are the foundations of deep learning, with a particul
 | Jan. 31, 2018 | Project Presentations|  ||
 | Feb. 7, 2018 | Project Presentations |  ||
 
-
-## More materials
-- Keras functional API: [http](https://keras.io/getting-started/functional-api-guide/)
-- Schmid: Usage of gpu resources in antarctica can be found at the end of the document [pdf](http://www.cis.uni-muenchen.de/~schmid/lehre/Experimente/Aufgaben/aufgabe8.pdf)
-- Bengio: Practical recommendations ... [arXiv](https://arxiv.org/abs/1206.5533)
-- Socher: Neural Tips and Tricks [pdf](http://cs224d.stanford.edu/lectures/CS224d-Lecture6.pdf)
-- Musterloesungen: [tar.gz](musterloesungen.tar.gz)
