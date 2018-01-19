@@ -56,3 +56,4 @@ The topics of this lecture are the foundations of deep learning, with a particul
 - Bengio: Practical recommendations ... [arXiv](https://arxiv.org/abs/1206.5533)
 - Socher: Neural Tips and Tricks [pdf](http://cs224d.stanford.edu/lectures/CS224d-Lecture6.pdf)
 - Musterloesungen: [tar.gz](musterloesungen.tar.gz)
+- Regularisierung: [reg](reg.md)
