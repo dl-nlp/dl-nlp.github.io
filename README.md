@@ -44,7 +44,8 @@ The topics of this lecture are the foundations of deep learning, with a particul
 | Dec. 13, 2017| CNN [pdf](convolution_pooling.pdf) [pptx](cnn.pptx)<br> Functional Keras |  homework [ipynb](Sentiment_lstm_cnn_name.ipynb) ||
 | Dec. 20, 2017| Projects [pdf](projects.pdf) | ||
 | Jan. 10, 2018| Hyperparameter [pdf](hyper_params.pdf) [py](hyperopt.py)| ||
-| ... | TBD |  ||
+| Jan. 17, 2018| Regularization [pdf](Regularization.pdf) | ||
+| Jan. 24, 2018| Project Q&A | ||
 | Jan. 31, 2018 | Project Presentations|  ||
 | Feb. 7, 2018 | Project Presentations |  ||
 
