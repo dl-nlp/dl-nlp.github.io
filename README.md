@@ -30,6 +30,36 @@ The topics of this lecture are the foundations of deep learning, with a particul
 - Präsentationen am 31.1. und 7.2.
 - Schriftliche Ausarbeitungen: 20.2.2018
 
+## Präsentationsslots
+### Mittwoch, 31.1.2018
+
+Dauer der Präsentationen: 7-10 Minuten, im Anschluss 5-8 Minuten Fragen
+
+| Zeit | Vortragende/r | Thema |
+| --- | --- | --- |
+| 9:00 | Maximilian Martin | Klassifikation von Urteilstexten mit CNNs |
+| 9:15 | Oliver Deck | Multilabel emotion classification |
+| 9:30 | Simon Preissner | Sentiment prediction using multilingual word embeddings |
+| --- | --- | --- |
+| 10:00 | Anne Beyer | Combining data sets for irony detection |
+| 10:15 | Xieyidan Abuliezi | Regularization for irony detection |
+| 10:30 | Sabrina Jacob | Positional embeddings for relation prediction |
+| --- | --- | --- |
+| 11:00 | Azada Rustamova | Domain adaptation for relation prediction |
+| 11:15 | Ivan Bilan | Neural models for relation argument extraction |
+| 11:30 | Simon Schäfer | Predicting financial Sentiment from microblogs |
+
+### Mittwoch, 31.1.2018
+
+| Zeit | Vortragende/r | Thema |
+| --- | --- | --- |
+| 9:15 | Sebastian Meier | Affect intensity prediction (PyTorch) |
+| 9:30 | Antonio Bikic | Affect intensity prediction (Keras) |
+| --- | --- | --- |
+| 10:00 | Janina Nuber | Retrieval-based Dialog System |
+| 10:15 | Dulam Baatarkhuu | Tagging with LSTMs and Auxiliary Outputs |
+
+
 ## Course Material
 
 | Date | slides | homework | materials |
