@@ -49,7 +49,7 @@ Dauer der Präsentationen: 7-10 Minuten, im Anschluss 5-8 Minuten Fragen
 | 11:15 | Ivan Bilan | Neural models for relation argument extraction |
 | 11:30 | Simon Schäfer | Predicting financial Sentiment from microblogs |
 
-### Mittwoch, 31.1.2018
+### Mittwoch, 7.2.2018
 
 | Zeit | Vortragende/r | Thema |
 | --- | --- | --- |
