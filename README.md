@@ -8,20 +8,16 @@ Sie erreichen Dozent und Tutor unter  profilmodul1718 (at) cis (dot) lmu (dot) d
 
 The topics of this lecture are the foundations of deep learning, with a particular focus on practical aspects and applications to natural language processing and knowledge representation.
 
-- Foundations of machine learning
-- Loss functions
-- linear regression
-- logistic regression
-- gradient-based optimization
-- neural networks and backpropagation
-- Deep learning tools
-- Numpy
-- Theano
-- Keras
-- Tensorflow
-- Applications
-- Relation extraction
-- Knowledge graph embeddings
+- Foundations of machine learning:
+  - Loss functions
+  - linear regression
+  - logistic regression
+  - gradient-based optimization
+  - neural networks and backpropagation
+- Deep learning tools:
+  - Numpy, PyTorch, Keras
+- Applications:
+  - Tagging, Sentiment-Prediction, Relation extraction
 - Practical projects (NLP related, to be agreed on during the course)
 
 
