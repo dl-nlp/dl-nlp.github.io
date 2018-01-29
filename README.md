@@ -37,12 +37,12 @@ Dauer der Präsentationen: 7-10 Minuten, im Anschluss 5-8 Minuten Fragen
 
 | Zeit | Vortragende/r | Thema |
 | --- | --- | --- |
-| 9:00 | Maximilian Martin | Klassifikation von Urteilstexten mit CNNs |
-| 9:15 | Oliver Deck | Multilabel emotion classification |
-| 9:30 | Simon Preissner | Sentiment prediction using multilingual word embeddings |
+| 9:15 | Maximilian Martin | Klassifikation von Urteilstexten mit CNNs |
+| 9:30 | Oliver Deck | Multilabel emotion classification |
 | --- | --- | --- |
-| 10:00 | Anne Beyer | Combining data sets for irony detection |
-| 10:15 | Xieyidan Abuliezi | Regularization for irony detection |
+| 10:00 | Simon Preissner | Sentiment prediction using multilingual word embeddings |
+| 10:15 | Anne Beyer | Combining data sets for irony detection |
+| 10:30 | Xieyidan Abuliezi | Regularization for irony detection |
 | --- | --- | --- |
 | 11:00 | Azada Rustamova | Domain adaptation for relation prediction |
 | 11:15 | Ivan Bilan | Neural models for relation argument extraction |
