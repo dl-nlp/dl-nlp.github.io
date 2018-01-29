@@ -43,7 +43,6 @@ Dauer der Präsentationen: 7-10 Minuten, im Anschluss 5-8 Minuten Fragen
 | --- | --- | --- |
 | 10:00 | Anne Beyer | Combining data sets for irony detection |
 | 10:15 | Xieyidan Abuliezi | Regularization for irony detection |
-| 10:30 | Sabrina Jacob | Positional embeddings for relation prediction |
 | --- | --- | --- |
 | 11:00 | Azada Rustamova | Domain adaptation for relation prediction |
 | 11:15 | Ivan Bilan | Neural models for relation argument extraction |
@@ -56,9 +55,11 @@ Dauer der Präsentationen: 7-10 Minuten, im Anschluss 5-8 Minuten Fragen
 | 9:15 | Sebastian Meier | Affect intensity prediction (PyTorch) |
 | 9:30 | Antonio Bikic | Affect intensity prediction (Keras) |
 | --- | --- | --- |
-| 10:00 | Janina Nuber | Retrieval-based Dialog System |
-| 10:15 | Dulam Baatarkhuu | Tagging with LSTMs and Auxiliary Outputs |
-
+| 10:00 | Luisa Berlanda | Domain adaptation for irony detection using L2-similarity |
+| 10:15 | Janina Nuber | Retrieval-based Dialog System |
+| 10:30 | Dulam Baatarkhuu | Tagging with LSTMs and Auxiliary Outputs |
+| --- | --- | --- |
+| 11:00 | ??? | ??? |
 
 ## Course Material
 
