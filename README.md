@@ -52,10 +52,10 @@ Dauer der Präsentationen: 7-10 Minuten, im Anschluss 5-8 Minuten Fragen
 | 9:30 | Antonio Bikic | Affect intensity prediction (Keras) |
 | --- | --- | --- |
 | 10:00 | Luisa Berlanda | Domain adaptation for irony detection using L2-similarity |
-| 10:15 | Janina Nuber | Retrieval-based Dialog System |
-| 10:30 | Dulam Baatarkhuu | Tagging with LSTMs and Auxiliary Outputs |
+| 10:15 | Janina Nuber | Retrieval-based dialog system |
+| 10:30 | Dulam Baatarkhuu | Tagging with LSTMs and auxiliary outputs |
 | --- | --- | --- |
-| 11:00 | ??? | ??? |
+| 11:00 | Sabrina Jacob | Relation prediction using positional embeddings |
 
 ## Course Material
 
