@@ -37,11 +37,11 @@ Dauer der Präsentationen: 7-10 Minuten, im Anschluss 5-8 Minuten Fragen
 | 9:30 | Oliver Deck | Multilabel emotion classification | [pdf](project_Deck_Multiclass_Aspect.pdf) |
 | --- | --- | --- | --- |
 | 10:00 | Simon Preissner | Sentiment prediction using multilingual word embeddings | [pdf](project_preissner_presentation.pdf) |
-| 10:15 | Anne Beyer | Combining data sets for irony detection |  |
-| 10:30 | Xieyidan Abuliezi | Regularization for irony detection |  |
+| 10:15 | Anne Beyer | Combining data sets for irony detection | [pdf](project_presentation_Anne_Beyer.pdf) |
+| 10:30 | Xieyidan Abuliezi | Regularization for irony detection | [pdf](project_abuliezi_irony_detection.pdf) |
 | --- | --- | --- | --- |
 | 11:00 | Azada Rustamova | Domain adaptation for relation prediction |  |
-| 11:15 | Ivan Bilan | Neural models for relation argument extraction |  |
+| 11:15 | Ivan Bilan | Neural models for relation argument extraction | [pdf](project_TAC_Ivan_Bilan.pdf) |
 | 11:30 | Simon Schäfer | Predicting financial Sentiment from microblogs |  |
 
 ### Mittwoch, 7.2.2018
