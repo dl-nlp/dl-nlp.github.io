@@ -1,6 +1,6 @@
 - Zeit: Mi. 9-11 (VL), Mi. 11-12 (Ü)
 - Raum: 131
-- Start: 18.10.2017
+- Start: 17.10.2018
 
 Sie erreichen Dozent und Tutor unter  profilmodul1718 (at) cis (dot) lmu (dot) de
 
@@ -22,9 +22,9 @@ The topics of this lecture are the foundations of deep learning, with a particul
 
 
 ## Abgabetermine
-- Implementierungen: 28.1.2018
-- Präsentationen am 31.1. und 7.2.
-- Schriftliche Ausarbeitungen: 20.2.2018
+- Implementierungen: TBD
+- Präsentationen am TBD
+- Schriftliche Ausarbeitungen: TBD
 
 ## Präsentationsslots
 ### Mittwoch, 31.1.2018
