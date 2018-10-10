@@ -61,14 +61,14 @@ Dauer der Präsentationen: 7-10 Minuten, im Anschluss 5-8 Minuten Fragen
 
 | Date | slides | homework | materials |
 |-----------------------------|:--------------------------------:|:------:|:-------------------------------------------------------------------|
-| Oct. 18, 2017 | Machine learning overview [pdf](ml_basics_I.pdf)| homework [pdf](ex01_linalg.pdf) | |
-| Oct. 25, 2017 | Machine learning overview | homework [pdf](ex02_probability.pdf) | |
-| Nov. 8, 2017 | Machine learning overview II [pdf](ml_basics_II_short.pdf) <br>Introduction to Numpy [pdf](numpy_intro.pdf)| homework [ipynb](numpy.ipynb)  ||
-| Nov. 15, 2017 | Machine learning overview III [pdf](ml_basics_III.pdf) <br> Introduction to Pytorch [pdf](pytorch_intro.pdf) | homework [ipynb](pytorch_intro.ipynb)  ||
-| Nov. 22, 2017 | Word2Vec [pdf](word2vec.pdf) [pdf](word2vec2.pdf) | homework [ipynb](Pytorch_wordEmbeddings.ipynb)||
-| Nov. 29, 2017 | RNN [pdf](rnn_main_ideas.pdf) | homework [pdf](ex06_lstm.pdf)||
-| Dec. 6, 2017 | RNN/Keras [pdf](neural_networks.pdf) | homework [ipynb](argument_tagging.ipynb){:target="_blank"} [atis.json](atis.json){:target="_blank"}||
-| Dec. 13, 2017| CNN [pdf](convolution_pooling.pdf) [pptx](cnn.pptx)<br> Functional Keras |  homework [ipynb](Sentiment_lstm_cnn_name.ipynb) ||
+| Oct. 18, 2017 | Machine learning overview [pdf](ml_basics_I.pdf)|  | |
+| Oct. 25, 2017 | Machine learning overview |  | |
+| Nov. 8, 2017 | Machine learning overview II [pdf](ml_basics_II_short.pdf) <br>Introduction to Numpy [pdf](numpy_intro.pdf)|   ||
+| Nov. 15, 2017 | Machine learning overview III [pdf](ml_basics_III.pdf) <br> Introduction to Pytorch [pdf](pytorch_intro.pdf) |  ||
+| Nov. 22, 2017 | Word2Vec [pdf](word2vec.pdf) [pdf](word2vec2.pdf) | ||
+| Nov. 29, 2017 | RNN [pdf](rnn_main_ideas.pdf) | ||
+| Dec. 6, 2017 | RNN/Keras [pdf](neural_networks.pdf) | ||
+| Dec. 13, 2017| CNN [pdf](convolution_pooling.pdf) [pptx](cnn.pptx)<br> Functional Keras |   ||
 | Dec. 20, 2017| Projects [pdf](projects.pdf) | ||
 | Jan. 10, 2018| Hyperparameter [pdf](hyper_params.pdf) [py](hyperopt.py)| ||
 | Jan. 17, 2018| Regularization [pdf](Regularization.pdf) | ||
