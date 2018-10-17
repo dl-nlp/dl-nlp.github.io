@@ -26,55 +26,11 @@ The topics of this lecture are the foundations of deep learning, with a particul
 - Präsentationen am TBD
 - Schriftliche Ausarbeitungen: TBD
 
-## Präsentationsslots
-### Mittwoch, 31.1.2018
-
-Dauer der Präsentationen: 7-10 Minuten, im Anschluss 5-8 Minuten Fragen
-
-| Zeit | Vortragende/r | Thema | Slides |
-| --- | --- | --- | --- |
-| 9:15 | Maximilian Martin | Klassifikation von Urteilstexten mit CNNs | [pdf](project_Textklassifikation_mit_CNN_Maximilian_Martin.pdf) |
-| 9:30 | Oliver Deck | Multilabel emotion classification | [pdf](project_Deck_Multiclass_Aspect.pdf) |
-| --- | --- | --- | --- |
-| 10:00 | Simon Preissner | Sentiment prediction using multilingual word embeddings | [pdf](project_preissner_presentation.pdf) |
-| 10:15 | Anne Beyer | Combining data sets for irony detection | [pdf](project_presentation_Anne_Beyer.pdf) |
-| 10:30 | Xieyidan Abuliezi | Regularization for irony detection | [pdf](project_abuliezi_irony_detection.pdf) |
-| --- | --- | --- | --- |
-| 11:00 | Azada Rustamova | Domain adaptation for relation prediction |  |
-| 11:15 | Ivan Bilan | Neural models for relation argument extraction | [pdf](project_TAC_Ivan_Bilan.pdf) |
-| 11:30 | Simon Schäfer | Predicting financial Sentiment from microblogs |  |
-
-### Mittwoch, 7.2.2018
-
-| Zeit | Vortragende/r | Thema |
-| --- | --- | --- |
-| 9:15 | Sebastian Meier | Affect intensity prediction (PyTorch) |
-| 9:30 | Antonio Bikic | Affect intensity prediction (Keras) |
-| --- | --- | --- |
-| 10:00 | Luisa Berlanda | Domain adaptation for irony detection using L2-similarity |
-| 10:15 | Janina Nuber | Retrieval-based dialog system |
-| 10:30 | Dulam Baatarkhuu | Tagging with LSTMs and auxiliary outputs |
-| --- | --- | --- |
-| 11:00 | Sabrina Jacob | Relation prediction using positional embeddings |
-
 ## Course Material
 
 | Date | slides | homework | materials |
 |-----------------------------|:--------------------------------:|:------:|:-------------------------------------------------------------------|
-| Oct. 18, 2017 | Machine learning overview [pdf](ml_basics_I.pdf)|  | |
-| Oct. 25, 2017 | Machine learning overview |  | |
-| Nov. 8, 2017 | Machine learning overview II [pdf](ml_basics_II_short.pdf) <br>Introduction to Numpy [pdf](numpy_intro.pdf)|   ||
-| Nov. 15, 2017 | Machine learning overview III [pdf](ml_basics_III.pdf) <br> Introduction to Pytorch [pdf](pytorch_intro.pdf) |  ||
-| Nov. 22, 2017 | Word2Vec [pdf](word2vec.pdf) [pdf](word2vec2.pdf) | ||
-| Nov. 29, 2017 | RNN [pdf](rnn_main_ideas.pdf) | ||
-| Dec. 6, 2017 | RNN/Keras [pdf](neural_networks.pdf) | ||
-| Dec. 13, 2017| CNN [pdf](convolution_pooling.pdf) [pptx](cnn.pptx)<br> Functional Keras |   ||
-| Dec. 20, 2017| Projects [pdf](projects.pdf) | ||
-| Jan. 10, 2018| Hyperparameter [pdf](hyper_params.pdf) [py](hyperopt.py)| ||
-| Jan. 17, 2018| Regularization [pdf](Regularization.pdf) | ||
-| Jan. 24, 2018| Project Q&A | ||
-| Jan. 31, 2018 | Project Presentations|  ||
-| Feb. 7, 2018 | Project Presentations |  ||
+| Oct. 17, 2018 | Machine learning overview [pdf](ml_basics_I.pdf)|  | |
 
 
 ## More materials
