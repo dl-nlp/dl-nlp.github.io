@@ -2,7 +2,7 @@
 - Raum: 131
 - Start: 17.10.2018
 
-Sie erreichen Dozent und Tutor unter  profilmodul1718 (at) cis (dot) lmu (dot) de
+Sie erreichen Dozent und Tutor unter  profilmodul1819 (at) cis (dot) lmu (dot) de
 
 ## Topics
 
