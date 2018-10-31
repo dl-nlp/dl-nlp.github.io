@@ -32,7 +32,8 @@ The topics of this lecture are the foundations of deep learning, with a particul
 |-----------------------------|:--------------------------------:|:------:|:-------------------------------------------------------------------|
 | Oct. 17, 2018 | Machine learning overview [pdf](ml_basics_I.pdf)| [Linear Algebra](ex01_linalg.pdf) | |
 | Oct. 24, 2018 | Machine learning overview II [pdf](ml_basics_II_short.pdf)| [Probability](ex02_probability.pdf) | |
-| Oct. 31, 2018 | Machine learning overview III [pdf](ml_basics_III.pdf); Numpy [pdf](numpy_intro.pdf) | | |
+| Oct. 31, 2018 | Machine learning overview III [pdf](ml_basics_III.pdf); Numpy [pdf](numpy_intro.pdf) |  |  |
+
 ## More materials
 - Keras functional API: [http](https://keras.io/getting-started/functional-api-guide/)
 - Schmid: Usage of gpu resources in antarctica can be found at the end of the document [pdf](http://www.cis.uni-muenchen.de/~schmid/lehre/Experimente/Aufgaben/aufgabe8.pdf)
