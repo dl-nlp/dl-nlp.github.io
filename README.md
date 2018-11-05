@@ -35,7 +35,7 @@ The topics of this lecture are the foundations of deep learning, with a particul
 | Oct. 31, 2018 | Machine learning overview III [pdf](ml_basics_III.pdf); Numpy [pdf](numpy_intro.pdf) | [Numpy](numpy.ipynb) - Abgabe gerne zu zweit oder zu dritt |  |
 
 ## More materials
-- Essence of Linear Algebra: [youtube] (https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- Essence of Linear Algebra: [youtube](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - Keras functional API: [http](https://keras.io/getting-started/functional-api-guide/)
 - Schmid: Usage of gpu resources in antarctica can be found at the end of the document [pdf](http://www.cis.uni-muenchen.de/~schmid/lehre/Experimente/Aufgaben/aufgabe8.pdf)
 - Bengio: Practical recommendations ... [arXiv](https://arxiv.org/abs/1206.5533)
