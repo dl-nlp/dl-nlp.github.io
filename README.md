@@ -33,7 +33,7 @@ The topics of this lecture are the foundations of deep learning, with a particul
 | Oct. 17, 2018 | Machine learning overview [pdf](ml_basics_I.pdf)| [Linear Algebra](ex01_linalg.pdf) | |
 | Oct. 24, 2018 | Machine learning overview II [pdf](ml_basics_II_short.pdf)| [Probability](ex02_probability.pdf) | |
 | Oct. 31, 2018 | Machine learning overview III [pdf](ml_basics_III.pdf); Numpy [pdf](numpy_intro.pdf) | [Numpy](numpy.ipynb) - Abgabe gerne zu zweit oder zu dritt |  |
-| Nov. 07, 2018 | Machine learning rest [pdf](ml_basics_rest.pdf); CIP guide [pdf](guide_cip.pdf); Pytorch [pdf](pytorch_intro.pdf) | [Pytorch](pytorch_intro.ipynb) |  |
+| Nov. 07, 2018 | Machine learning rest [pdf](ml_basics_rest.pdf); CIP guide [pdf](guide_cip.pdf); Pytorch [pdf](pytorch_intro.pdf) | [Pytorch](pytorch_intro.ipynb) - Abgabe bitte zu zweit oder zu dritt | Pytorch 0.4.0 [http](https://pytorch.org/blog/pytorch-0_4_0-migration-guide/)  |
 
 ## More materials
 - Essence of Linear Algebra: [youtube](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
