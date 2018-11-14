@@ -33,9 +33,11 @@ The topics of this lecture are the foundations of deep learning, with a particul
 | Oct. 17, 2018 | Machine learning overview [pdf](ml_basics_I.pdf)| [Linear Algebra](ex01_linalg.pdf) | |
 | Oct. 24, 2018 | Machine learning overview II [pdf](ml_basics_II_short.pdf)| [Probability](ex02_probability.pdf) | |
 | Oct. 31, 2018 | Machine learning overview III [pdf](ml_basics_III.pdf); Numpy [pdf](numpy_intro.pdf) | [Numpy](numpy.ipynb) - Abgabe gerne zu zweit oder zu dritt |  |
-| Nov. 07, 2018 | Machine learning rest [pdf](ml_basics_rest.pdf); CIP guide [pdf](guide_cip.pdf); Pytorch [pdf](pytorch_intro.pdf) | [Pytorch](pytorch_intro.ipynb) - Abgabe bitte zu zweit oder zu dritt | Merging of Variable and Tensor [http](https://pytorch.org/blog/pytorch-0_4_0-migration-guide/)  |
-
+| Nov. 07, 2018 | Machine learning rest [pdf](ml_basics_rest.pdf); CIP guide [pdf](guide_cip.pdf); Pytorch [pdf](pytorch_intro.pdf) | [Pytorch](pytorch_intro.ipynb) - Abgabe bitte zu zweit oder zu dritt | 
+Merging of Variable and Tensor [http](https://pytorch.org/blog/pytorch-0_4_0-migration-guide/)  |
+| Nov. 14, 2018 | Word2Vec [pdf](word2vec.pdf) | [Word Embeddings](pytorch_wordEmbeddings.ipynb) - Abgabe bitte zu zweit oder zu dritt | |
 ## More materials
+- Jupyter Notebooks Tips and Tricks: [http](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
 - Essence of Linear Algebra: [youtube](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - Keras functional API: [http](https://keras.io/getting-started/functional-api-guide/)
 - Bengio: Practical recommendations ... [arXiv](https://arxiv.org/abs/1206.5533)
