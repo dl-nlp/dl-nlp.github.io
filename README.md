@@ -36,6 +36,7 @@ The topics of this lecture are the foundations of deep learning, with a particul
 | Nov. 07, 2018 | Machine learning rest [pdf](ml_basics_rest.pdf); CIP guide [pdf](guide_cip.pdf); Pytorch [pdf](pytorch_intro.pdf) | [Pytorch](pytorch_intro.ipynb) - Abgabe bitte zu zweit oder zu dritt | Merging of Variable and Tensor [http](https://pytorch.org/blog/pytorch-0_4_0-migration-guide/) |
 | Nov. 14, 2018 | Word2Vec [pdf](word2vec.pdf) | [Word Embeddings](pytorch_wordEmbeddings.ipynb) - Abgabe bitte zu zweit oder zu dritt | |
 | Nov. 21, 2018 | RNNs [pdf](rnn.pdf) | [LSTMs and GRUs](ex06_lstm.pdf) | |
+| Nov. 28, 2018 |  <span style="color:red">**Zusätzlich 8:15-9:00 Wiederholung Pytorch-Grundlagen**</span> | [LSTMs and GRUs](ex06_lstm.pdf) | |
 
 ## More materials
 - Jupyter Notebooks Tips and Tricks: [http](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
