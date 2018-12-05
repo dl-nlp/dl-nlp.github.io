@@ -37,7 +37,7 @@ The topics of this lecture are the foundations of deep learning, with a particul
 | Nov. 14, 2018 | Word2Vec [pdf](word2vec.pdf) | [Word Embeddings](pytorch_wordEmbeddings.ipynb) - Abgabe bitte zu zweit oder zu dritt | |
 | Nov. 21, 2018 | RNNs [pdf](rnn.pdf) | [LSTMs and GRUs](ex06_lstm.pdf) | |
 | Nov. 28, 2018 | Keras [pdf](keras.pdf); Convolution and Pooling [pdf](convolution_pooling.pdf) | [Keras](argument_tagging.ipynb), [Data](atis.json) | [Link zur Mittsemester-Evaluation](https://www.lehrevaluation.uni-muenchen.de/evasys/online/){:target="_blank"} (bitte benutzen Sie die in der VL ausgeteilete TAN - Danke!) |
-| Nov. 28, 2018 | Keras extended [pdf](keras_extended.pdf); Attention [pdf](attn.pdf) | [Sentiment](keras_sentiment.ipynb) | |
+| Dec. 05, 2018 | Keras (extended) [pdf](keras_extended.pdf); Attention [pdf](attn.pdf) | [Sentiment](keras_sentiment.ipynb) | |
 
 ## More materials
 - Jupyter Notebooks Tips and Tricks: [http](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
