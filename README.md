@@ -22,9 +22,9 @@ The topics of this lecture are the foundations of deep learning, with a particul
 
 
 ## Abgabetermine
-- Implementierungen: TBD
-- Präsentationen am TBD
-- Schriftliche Ausarbeitungen: TBD
+- Implementierungen: 28.1.2019
+- Präsentationen am 30.1.2019 und 6.2.2019
+- Schriftliche Ausarbeitungen: 20.2.2019
 
 ## Course Material
 
