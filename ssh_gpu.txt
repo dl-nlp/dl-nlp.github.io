@@ -1,0 +1,141 @@
+# copy files from/to server
+scp <username>@remote.cip.ifi.lmu.de:<PATH> <LOCAL-FOLDER>
+scp <LOCAL-FOLDER> <username>@remote.cip.ifi.lmu.de:<PATH>
+
+# log in on CIP server
+# -X to open external windows
+ssh -X <username>@remote.cip.ifi.lmu.de
+
+# download files
+wget <URL>
+
+# show file content
+less <FILE>
+# go to end of file
+G
+# quit view
+q   
+
+# edit files on server
+nano <FILE>
+(^ = Ctrl)
+
+vim <FILE>
+i       # insert mode
+ESC     # back to command mode
+:wq     # command write and quit
+
+# install Python packages
+pip3 install --user <PACKAGE>
+conda install <PACKAGE>
+
+
+# Run script on CIP server
+
+# slurm (https://www.rz.ifi.lmu.de/infos/slurm_de.html bzw. https://slurm.schedmd.com/quickstart.html)
+# Show groups and names (at least every machine in Antarktis has a suitable GPU)
+sinfo
+
+# show running processes
+smap/sview(opens an extra window)
+
+# create a new job (will be given a process ID)
+# create an executable wrapper script with all necessary parameters (chmod +x <FILE>)
+# slurm-<PROCESS_ID>.out will be created (if -o is not used) 
+sbatch -p Antarktis -o log.out MY_PROGRAM.sh 
+
+# show your queued jobs
+squeue -u <username>
+
+# In case slurm is not working:
+
+# change to specific GPU server
+ssh -X <GPU-Rechner>
+
+# check if GPU is availabe
+nvcc --version  # GPU version
+
+# check capacity
+htop            # list processes
+nvidia-smi      # list GPU processes
+
+# run program in background (remember the server name!)
+# remember to redirect all outputs to log file (you can't scroll in screen)
+
+# CAUTION: Servers are restarted every sunday night, all running processes will be killed 
+# --> Use checkpoints in your scripts!
+screen
+# detatch from screen
+Strg+A D
+# list active screens
+screen -list
+# resume screen
+screen -r <ID>
+
+
+# GPU with Pytorch
+
+# check GPU in python:
+python3
+import torch
+torch.cuda.is_available()
+# True
+torch.has_cudnn
+# True
+
+# use GPU (small changes in code necessary)
+.cuda() # move model/data to GPU
+.cpu()  # move back to CPU (if necessary)
+
+
+# GPU with Keras 
+
+--------------------------------------------------
+# set-up on CIP servers:
+# log in on GPU server
+# downgrade to Cuda Version 9.0 (9.1 is installed)
+wget https://developer.nvidia.com/compute/cuda/9.0/Prod/local_installers/cuda_9.0.176_384.81_linux-run
+
+./cuda_9.0.176_384.81_linux.run --override 
+# continue interactively:
+Using /usr/bin/less to view the EULA.
+Do you accept the previously read EULA?
+accept/decline/quit: accept
+
+You are attempting to install on an unsupported configuration. Do you wish to continue?
+(y)es/(n)o [ default is no ]: y
+
+Install NVIDIA Accelerated Graphics Driver for Linux-x86_64 384.81?
+(y)es/(n)o/(q)uit: n
+
+Install the CUDA 9.0 Toolkit?
+(y)es/(n)o/(q)uit: y
+
+Enter Toolkit Location
+ [ default is /usr/local/cuda-9.0 ]: /home/b/beyera/cuda-9.0
+
+Do you want to install a symbolic link at /usr/local/cuda?
+(y)es/(n)o/(q)uit: n
+
+# Samples are optional
+
+# write the following to .<SHELL>rc_local (find default shell with "echo $0")
+export LD_LIBRARY_PATH=/home/<LETTER>/<NAME>/cuda-9.0/lib64
+export PATH=/home/<LETTER>/<NAME>/cuda-9.0/bin:$PATH 
+
+# copy missing dependencies
+cp /home/b/beyera/cuda/cudnn-9.0-linux-x64-v7.4.2.24.tgz <YOUR_FOLDER>
+# unpack and move files from include and lib64 to include and lib64 in cuda installation directory (cuda-9.0)
+--------------------------------------------------
+
+# install tensorflow with gpu 
+pip3 install --user tensorflow-gpu
+
+# test GPU in python:
+python3
+import tensorflow as tf
+# show devices
+sess = tf.Session(config=tf.ConfigProto(log_device_placement=True))
+sess.close()
+
+# when importing keras, the tensorflow-gpu backend is used automatically (no changes to the code are necessary)
