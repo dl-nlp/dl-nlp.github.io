@@ -23,7 +23,8 @@ The topics of this lecture are the foundations of deep learning, with a particul
 
 ## Abgabetermine
 - Implementierungen: 28.1.2019
-- Präsentationen am 30.1.2019 und 6.2.2019
+- Pojektvorstellungen am 30.1.2019, 6.2.2019 und 13.2.2019
+  - Dauer der Präsentationen: 5-10 Minuten/pro Person + 5 Minuten Diskussion
 - Schriftliche Ausarbeitungen: 27.2.2019
 
 ## Course Material
