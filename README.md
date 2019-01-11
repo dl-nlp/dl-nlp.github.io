@@ -40,7 +40,7 @@ The topics of this lecture are the foundations of deep learning, with a particul
 | Nov. 28, 2018 | Keras [pdf](keras.pdf); Convolution and Pooling [pdf](convolution_pooling.pdf) | [Keras](argument_tagging.ipynb), [Data](atis.json) | [Link zur Mittsemester-Evaluation](https://www.lehrevaluation.uni-muenchen.de/evasys/online/){:target="_blank"} (bitte benutzen Sie die in der VL ausgeteilete TAN - Danke!) |
 | Dec. 05, 2018 | Keras (extended) [pdf](keras_extended.pdf); Attention [pdf](attn.pdf) | [Sentiment](keras_sentiment.ipynb) | |
 | Dec. 12, 2018 | Projects [pdf](projects.pdf) |  | [Using ssh and GPU](ssh_gpu.txt) |
-| Jan. 09, 2019 | Hyperparameters [pdf](hyper.pdf) |  | [hyperorpt script](hyperopt.py) |
+| Jan. 09, 2019 | Hyperparameters [pdf](hyper_params.pdf) |  | [hyperorpt script](hyperopt.py) |
 
 ## More materials
 - Jupyter Notebooks Tips and Tricks: [http](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
