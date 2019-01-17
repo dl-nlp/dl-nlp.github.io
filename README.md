@@ -36,14 +36,14 @@ The topics of this lecture are the foundations of deep learning, with a particul
     - Sabrina Jacob
     - Ziad Elsayes
   - **6.2.**
-   - Antonio Bikić
-   - Jannis Vamvas
-   - Verena Pongratz
-   - Christoph Papadatos
-   - Phillip Fuchs
-   - Mustafa Öztürk
-   - Steffen Freisinger
-   - Marina Speranskaya
+    - Antonio Bikić
+    - Jannis Vamvas
+    - Verena Pongratz
+    - Christoph Papadatos
+    - Phillip Fuchs
+    - Mustafa Öztürk
+    - Steffen Freisinger
+    - Marina Speranskaya
   - **13.2.**
     - Yen Ho
     - Nadine Sauermann
