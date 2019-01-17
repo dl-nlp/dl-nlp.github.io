@@ -25,6 +25,35 @@ The topics of this lecture are the foundations of deep learning, with a particul
 - Implementierungen: 28.1.2019
 - Pojektvorstellungen am 30.1.2019, 6.2.2019 und 13.2.2019
   - Dauer der Präsentationen: 5-10 Minuten/pro Person + 5 Minuten Diskussion
+  - **30.1.**
+    - Anna Steinberg
+    - Julius Tutz
+    - Anastasiya Kryvosheya
+    - Agata Barcik
+    - Robin Rojowiec
+    - Yannick Kaiser
+    - Sophia Antonin
+    - Sabrina Jacob
+    - Ziad Elsayes
+  - **6.2.**
+   - Antonio Bikić
+   - Jannis Vamvas
+   - Verena Pongratz
+   - Christoph Papadatos
+   - Phillip Fuchs
+   - Mustafa Öztürk
+   - Steffen Freisinger
+   - Marina Speranskaya
+  - **13.2.**
+    - Yen Ho
+    - Nadine Sauermann
+    - Armela Meleqi
+    - Yiyi Chen
+    - Iryna Markovych
+    - Benjamin Plötz
+    - Ira Maier
+    - Ines Röhrer
+    - Iryna Matviienko
 - Schriftliche Ausarbeitungen: 27.2.2019
 
 ## Course Material
