@@ -44,6 +44,7 @@ The topics of this lecture are the foundations of deep learning, with a particul
     - Mustafa Öztürk
     - Steffen Freisinger
     - Marina Speranskaya
+    - Sameh Metias
   - **13.2.**
     - Yen Ho
     - Nadine Sauermann
