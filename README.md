@@ -71,6 +71,7 @@ The topics of this lecture are the foundations of deep learning, with a particul
 | Dec. 05, 2018 | Keras (extended) [pdf](keras_extended.pdf); Attention [pdf](attn.pdf) | [Sentiment](keras_sentiment.ipynb) | |
 | Dec. 12, 2018 | Projects [pdf](projects.pdf) |  | [Using ssh and GPU](ssh_gpu.txt) |
 | Jan. 09, 2019 | Hyperparameters [pdf](hyper_params.pdf) |  | [hyperorpt script](hyperopt.py) |
+| Jan. 16, 2019 | Self-Attention (Google Transformer)|  |  "Vaswani et al., 2017: Attention is all You need" [paper](https://arxiv.org/abs/1706.03762)  |
 
 ## More materials
 - Jupyter Notebooks Tips and Tricks: [http](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
