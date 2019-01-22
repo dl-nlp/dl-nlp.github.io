@@ -31,25 +31,25 @@ The topics of this lecture are the foundations of deep learning, with a particul
 - Pojektvorstellungen am 30.1.2019, 6.2.2019 und 13.2.2019
   - Dauer der Präsentationen: 5-10 Minuten/pro Person + 5 Minuten Diskussion
   - **30.1.**
-    - Anna Steinberg
-    - Julius Tutz
-    - Anastasiya Kryvosheya
-    - Agata Barcik
-    - Robin Rojowiec
-    - Yannick Kaiser
-    - Sophia Antonin
-    - Sabrina Jacob
-    - Ziad Elsayes
+    - 9:15 Robin Rojowiec (Question answering with BiLSTM)
+    - 9:30 Sabrina Jacob (Relation classification with piecewise CNNs)
+    - 9:45 Yannick Kaiser (Inference in Knowledge Graphs)
+    - 10:00 Ziad Elsayes (Natural language generation from structured data with attention)
+    - 10:15 Anastasiya Kryvosheya (Antonym-Klassifikation: Keras Architekturen)
+    - 10:30 Julius Tutz (Antonym-Klassifikation: Qualitative Analyse)
+    - 11:00 Sophia Antonin (multilingual Misogyny detection: PyTorch)
+    - 11:15 Agata Barcik (multilingual Misogyny detection: Keras)
+    - 11:30 Anna Steinberg (FoFe Encodings/PyTorch)
   - **6.2.**
-    - Antonio Bikić
-    - Jannis Vamvas
-    - Verena Pongratz
-    - Christoph Papadatos
-    - Phillip Fuchs
-    - Mustafa Öztürk
-    - Steffen Freisinger
-    - Marina Speranskaya
-    - Sameh Metias
+    - 9:15 Steffen Freisinger (FoFe Encodings/Keras)
+    - 9:30 Mustafa Öztürk (Natural language generation from structured data/PyTorch)
+    - 9:45 Antonio Bikić (Text summarization with Encoder/decoder)
+    - 10:00 Sameh Metias (hyper-parameter optimization: random search vs. gaussian processes)
+    - 10:15 Verena Pongratz (Detecting insincere questions on Quora/Keras)
+    - 10:30 Marina Speranskaya (Detecting insincere questions on Quora/Keras using pre-trained language models)
+    - 11:00 Christoph Papadatos (Irony dection with pre-trained language models)
+    - 11:15 Phillip Fuchs (Irony dection with different encoders and weighting schemes)
+    - 11:30 Jannis Vamvas (Prediction of scent profiles from perfume descriptions)
   - **13.2.**
     - Yen Ho
     - Nadine Sauermann
