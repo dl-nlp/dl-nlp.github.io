@@ -51,15 +51,15 @@ The topics of this lecture are the foundations of deep learning, with a particul
     - 11:15 Phillip Fuchs (Irony dection with different encoders and weighting schemes)
     - 11:30 Jannis Vamvas (Prediction of scent profiles from perfume descriptions)
   - **13.2.**
-    - Yen Ho
-    - Nadine Sauermann
-    - Armela Meleqi
-    - Yiyi Chen
-    - Iryna Markovych
-    - Benjamin Plötz
-    - Ira Maier
-    - Ines Röhrer
-    - Iryna Matviienko
+    - 9:15 Yen Ho (Relation argument extraction: combining text encoders)
+    - 9:30 Nadine Sauermann (Relation argument extraction: combining argument extractors)
+    - 9:45 Armela Meleqi (Relation classification: examining the impact of negative instances)
+    - 10:00 Iryna Markovych (Relation classification: instance weighting)
+    - 10:15 Benjamin Plötz (Irony detection: L2 regularization with pre-trained parameters)
+    - 10:30 Ines Röhrer (Irony detection: transfer learning via pre-training)
+    - 11:00 Yiyi Chen (Paraphrase embeddings)
+    - 11:15 Iryna Matviienko (multilingual antonym detection)
+    - 11:30 Ira Maier (German Part-of-speech tagging using pre-trained ressources)
 - Schriftliche Ausarbeitungen: 27.2.2019
 
 ## Course Material
