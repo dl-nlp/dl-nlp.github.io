@@ -2,7 +2,7 @@
 - Raum: 131
 - Start: 17.10.2018
 
-Sie erreichen Dozent und Tutor unter  profilmodul1819 (at) cis (dot) lmu (dot) de
+Sie erreichen Dozent und Tutor unter profilmodul1819 (at) cis (dot) lmu (dot) de
 
 ## Topics
 
@@ -23,6 +23,11 @@ The topics of this lecture are the foundations of deep learning, with a particul
 
 ## Abgabetermine
 - Implementierungen: 28.1.2019
+  - Bitte geben Sie Ihre Implementierung auf eine der folgenden Arten ab:
+    - als Email-Anhang in einer Archiv-Datei (.zip oder .tar.gz)
+    - als Git-Repository auf [github.com](https://github.com/){:target="_blank"} oder auf [gitlab.cip.ifi.lmu.de](https://gitlab.cip.ifi.lmu.de/){:target="_blank"} (öffentlich lesbar, oder mit Leseberechtigung für User `beroth`)
+    - Senden Sie die Archiv-Datei oder die URL des Git-Repositorys an profilmodul1819 (at) cis (dot) lmu (dot) de
+    - falls Daten größer 10MB Teil Ihres Projektes sind, legen Sie bitte ein Verzeichnis `/big/b/beroth/abgaben/<your_username>` auf den CIP pool-Rechnern an (remote.cip.ifi.lmu.de) und legen Sie die Daten dort ab.
 - Pojektvorstellungen am 30.1.2019, 6.2.2019 und 13.2.2019
   - Dauer der Präsentationen: 5-10 Minuten/pro Person + 5 Minuten Diskussion
   - **30.1.**
