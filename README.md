@@ -38,7 +38,7 @@ The topics of this lecture are the foundations of deep learning, with a particul
     - 10:00 Ziad Elsayes (Natural language generation from structured data with attention)
     - 10:15 Anastasiya Kryvosheya (Antonym-Klassifikation: Keras Architekturen)
     - 10:30 Julius Tutz (Antonym-Klassifikation: Qualitative Analyse)
-    - 11:00 Sophia Antonin (multilingual Misogyny detection: PyTorch)
+    - 11:00 Sophia Antonin (multilingual Misogyny detection using multilingual embeddings)
     - 11:15 Agata Barcik (multilingual Misogyny detection: Keras)
     - 11:30 Anna Steinberg (FoFe Encodings/PyTorch)
   - **6.2.**
