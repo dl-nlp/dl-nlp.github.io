@@ -29,7 +29,7 @@ The topics of this lecture are the foundations of deep learning, with a particul
     - Senden Sie die Archiv-Datei oder die URL des Git-Repositorys an profilmodul1819 (at) cis (dot) lmu (dot) de
     - falls Daten größer 10MB Teil Ihres Projektes sind, legen Sie bitte ein Verzeichnis `/big/b/beroth/abgaben/<your_username>` auf den CIP pool-Rechnern an (remote.cip.ifi.lmu.de) und legen Sie die Daten dort ab.
 - Pojektvorstellungen am 30.1.2019, 6.2.2019 und 13.2.2019
-  - Bitte senden Sie die Slides vor der Präsentatoin an profilmodul1819 (at) cis (dot) lmu (dot) de
+  - Bitte senden Sie die Slides vor der Präsentation an profilmodul1819 (at) cis (dot) lmu (dot) de
   - Dauer der Präsentationen: 5-10 Minuten/pro Person + 5 Minuten Diskussion
   - **30.1.**
     - 9:15 Robin Rojowiec (Question answering with BiLSTM)
