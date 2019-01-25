@@ -30,6 +30,7 @@ The topics of this lecture are the foundations of deep learning, with a particul
     - falls Daten größer 10MB Teil Ihres Projektes sind, legen Sie bitte ein Verzeichnis `/big/b/beroth/abgaben/<your_username>` auf den CIP pool-Rechnern an (remote.cip.ifi.lmu.de) und legen Sie die Daten dort ab.
 - Pojektvorstellungen am 30.1.2019, 6.2.2019 und 13.2.2019
   - Dauer der Präsentationen: 5-10 Minuten/pro Person + 5 Minuten Diskussion
+  - Bitte senden Sie die Slides vor der Präsentatoin an profilmodul1819 (at) cis (dot) lmu (dot) de
   - **30.1.**
     - 9:15 Robin Rojowiec (Question answering with BiLSTM)
     - 9:30 Sabrina Jacob (Relation classification with piecewise CNNs)
@@ -43,13 +44,12 @@ The topics of this lecture are the foundations of deep learning, with a particul
   - **6.2.**
     - 9:15 Steffen Freisinger (FoFe Encodings/Keras)
     - 9:30 Mustafa Öztürk (Natural language generation from structured data/PyTorch)
-    - 9:45 Antonio Bikić (Text summarization with Encoder/decoder)
-    - 10:00 Sameh Metias (hyper-parameter optimization: random search vs. gaussian processes)
-    - 10:15 Verena Pongratz (Detecting insincere questions on Quora/Keras)
-    - 10:30 Marina Speranskaya (Detecting insincere questions on Quora/Keras using pre-trained language models)
-    - 11:00 Christoph Papadatos (Irony dection with pre-trained language models)
-    - 11:15 Phillip Fuchs (Irony dection with different encoders and weighting schemes)
-    - 11:30 Jannis Vamvas (Prediction of scent profiles from perfume descriptions)
+    - 9:45 Sameh Metias (hyper-parameter optimization: random search vs. gaussian processes)
+    - 10:00 Verena Pongratz (Detecting insincere questions on Quora/Keras)
+    - 10:15 Marina Speranskaya (Detecting insincere questions on Quora/Keras using pre-trained language models)
+    - 10:30 Christoph Papadatos (Irony dection with pre-trained language models)
+    - 11:00 Phillip Fuchs (Irony dection with different encoders and weighting schemes)
+    - 11:15 Jannis Vamvas (Prediction of scent profiles from perfume descriptions)
   - **13.2.**
     - 9:15 Yen Ho (Relation argument extraction: combining text encoders)
     - 9:30 Nadine Sauermann (Relation argument extraction: combining argument extractors)
