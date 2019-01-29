@@ -53,7 +53,7 @@ The topics of this lecture are the foundations of deep learning, with a particul
     - 11:15 Phillip Fuchs (Irony dection with different encoders and weighting schemes)
     - 11:30 Jannis Vamvas (Prediction of scent profiles from perfume descriptions)
   - **13.2.**
-    - **9:00** Michael Strohme
+    - **9:00** Michael Strohmayer (Irony detection in Keras with pretraining)
     - 9:15 Yen Ho (Relation argument extraction: combining text encoders)
     - 9:30 Nadine Sauermann (Relation argument extraction: combining argument extractors)
     - 9:45 Armela Meleqi (Relation classification: examining the impact of negative instances)
