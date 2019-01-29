@@ -29,6 +29,7 @@ The topics of this lecture are the foundations of deep learning, with a particul
     - Senden Sie die Archiv-Datei oder die URL des Git-Repositorys an profilmodul1819 (at) cis (dot) lmu (dot) de
     - falls Daten größer 10MB Teil Ihres Projektes sind, legen Sie bitte ein Verzeichnis `/big/b/beroth/abgaben/<your_username>` auf den CIP pool-Rechnern an (remote.cip.ifi.lmu.de) und legen Sie die Daten dort ab.
 - Pojektvorstellungen am 30.1.2019, 6.2.2019 und 13.2.2019
+  - Alle Teilnehmer sind eingeladen, bei den Präsentationen dabeizusein
   - Bitte senden Sie die Slides vor der Präsentation an profilmodul1819 (at) cis (dot) lmu (dot) de
   - Dauer der Präsentationen: 5-10 Minuten/pro Person + 5 Minuten Diskussion
   - **30.1.**
@@ -52,6 +53,7 @@ The topics of this lecture are the foundations of deep learning, with a particul
     - 11:15 Phillip Fuchs (Irony dection with different encoders and weighting schemes)
     - 11:30 Jannis Vamvas (Prediction of scent profiles from perfume descriptions)
   - **13.2.**
+    - **9:00** Michael Strohme
     - 9:15 Yen Ho (Relation argument extraction: combining text encoders)
     - 9:30 Nadine Sauermann (Relation argument extraction: combining argument extractors)
     - 9:45 Armela Meleqi (Relation classification: examining the impact of negative instances)
@@ -60,6 +62,7 @@ The topics of this lecture are the foundations of deep learning, with a particul
     - 10:30 Yiyi Chen (Paraphrase embeddings)
     - 11:00 Iryna Matviienko (multilingual antonym detection)
     - 11:15 Ira Maier (German Part-of-speech tagging using pre-trained ressources)
+    - 11:00 Jann Paul Engler (Common-sense Reasoning I / Keras)
 - Schriftliche Ausarbeitungen: 27.2.2019
     - Sie können die Springer LNCS-Vorlage verwenden [link](https://www.springer.com/gp/computer-science/lncs/new-latex-templates-available/15634678){:target="_blank"}
 
