@@ -62,7 +62,7 @@ The topics of this lecture are the foundations of deep learning, with a particul
     - 10:30 Yiyi Chen (Paraphrase embeddings)
     - 11:00 Iryna Matviienko (multilingual antonym detection)
     - 11:15 Ira Maier (German Part-of-speech tagging using pre-trained ressources)
-    - 11:00 Jann Paul Engler (Common-sense Reasoning I / Keras)
+    - 11:30 Jann Paul Engler (Common-sense Reasoning I / Keras)
 - Schriftliche Ausarbeitungen: 27.2.2019
     - Sie können die Springer LNCS-Vorlage verwenden [link](https://www.springer.com/gp/computer-science/lncs/new-latex-templates-available/15634678){:target="_blank"}
 
