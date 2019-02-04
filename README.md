@@ -65,6 +65,7 @@ The topics of this lecture are the foundations of deep learning, with a particul
     - 11:30 Jann Paul Engler (Common-sense Reasoning I / Keras)
 - Schriftliche Ausarbeitungen: 27.2.2019
     - Sie können die Springer LNCS-Vorlage verwenden [link](https://www.springer.com/gp/computer-science/lncs/new-latex-templates-available/15634678){:target="_blank"}
+- Sprache für Präsentation / schriftliche Ausarbeitung ist **Englisch oder Deutsch**.
 
 ## Course Material
 
