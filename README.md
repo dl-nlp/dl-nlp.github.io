@@ -60,7 +60,7 @@ The topics of this lecture are the foundations of deep learning, with a particul
     - 9:45 Armela Meleqi (Relation classification: examining the impact of negative instances)
     - 10:00 Benjamin Plötz (Irony detection: L2 regularization with pre-trained parameters)
     - 10:15 Ines Röhrer (Irony detection: transfer learning via pre-training)
-    - 10:30 Yiyi Chen (Paraphrase embeddings)
+    - 10:45 Yiyi Chen (Paraphrase embeddings)
     - 11:00 Iryna Matviienko (multilingual antonym detection)
     - 11:15 Ira Maier (German Part-of-speech tagging using pre-trained ressources)
     - 11:30 Jann Paul Engler (Common-sense Reasoning I / Keras)
