@@ -49,7 +49,7 @@ The topics of this lecture are the foundations of deep learning, with a particul
     - 10:00 Sameh Metias (hyper-parameter optimization: random search vs. gaussian processes)
     - 10:15 Verena Pongratz (Detecting insincere questions on Quora/Keras)
     - 10:30 Marina Speranskaya (Detecting insincere questions on Quora/Keras using pre-trained language models)
-    - 10:45 Janina Kraus (Insincere Question Detection with PyTorch)
+    - 10:55 Janina Kraus (Insincere Question Detection with PyTorch)
     - 11:10 Christoph Papadatos (Irony dection with pre-trained language models)
     - 11:25 Phillip Fuchs (Irony dection with different encoders and weighting schemes)
     - 11:40 Jannis Vamvas (Prediction of scent profiles from perfume descriptions) 
