@@ -16,6 +16,8 @@ The topics of this lecture are the foundations of deep learning, with a particul
   - neural networks and backpropagation
 - Deep learning tools:
   - Numpy, PyTorch, Keras
+- Deep Learning Architectures for NLP:
+  - RNNs, CNNs, Self-Attention (Transformer)
 - Applications:
   - Tagging, Sentiment-Prediction, Relation extraction
 - Practical projects (NLP related, to be agreed on during the course)
@@ -24,7 +26,7 @@ The topics of this lecture are the foundations of deep learning, with a particul
 ## Course Material
 
 | Date | slides | homework | materials |
-|-----------------------------|:--------------------------------:|:------:|:-------------------------------------------------------------------|
+| Oct. 16, 2019 | Machine learning overview I [pdf](ml_basics_I.pdf)| [Linear Algebra](ex01_linalg.pdf) | |
 
 ## More materials
 - Jupyter Notebooks Tips and Tricks: [http](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
