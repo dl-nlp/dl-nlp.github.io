@@ -25,7 +25,7 @@ The topics of this lecture are the foundations of deep learning, with a particul
 
 ## Course Material
 
-| Date | slides | homework | materials |
+| Date | slides | homework | materials | |
 | Oct. 16, 2019 | Machine learning overview I [pdf](ml_basics_I.pdf)| [Linear Algebra](ex01_linalg.pdf) | |
 
 ## More materials
