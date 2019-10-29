@@ -22,6 +22,10 @@ The topics of this lecture are the foundations of deep learning, with a particul
   - Tagging, Sentiment-Prediction, Relation extraction
 - Practical projects (NLP related, to be agreed on during the course)
 
+## Klausur
+ - Die Klausur findet am Mittwoch 8.1.2020 um 10:00 statt und dauert 90 Minuten. (Der Raum wird noch bekannt gegeben.)
+ - Die Nachklausur findet am Samstag 22.2.2020 um 10:00 statt und dauert 90 Minuten. (Der Raum wird noch bekannt gegeben.)
+ 
 
 ## Course Material
 
