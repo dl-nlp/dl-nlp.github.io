@@ -33,7 +33,7 @@ The topics of this lecture are the foundations of deep learning, with a particul
 |-----------------------------|:--------------------------------:|:------:|:-------------------------------------------------------------------|
 | Oct. 16, 2019 | Machine learning overview [pdf](ml_basics_I.pdf)| [Linear Algebra](ex01_linalg.pdf) | |
 | Oct. 23, 2019 | Machine learning overview II [pdf](ml_basics_II_short.pdf) | [Probability Theory](ex02_probability.pdf) |
-
+| Oct. 30, 2019 | Machine learning overview III [pdf](ml_basics_III.pdf); Numpy [pdf](numpy_intro.pdf) | [Numpy](numpy.ipynb) - Abgabe bitte zu zweit oder zu dritt |  |
 
 ## More materials
 - Jupyter Notebooks Tips and Tricks: [http](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
