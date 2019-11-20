@@ -36,7 +36,7 @@ The topics of this lecture are the foundations of deep learning, with a particul
 | Oct. 30, 2019 | Machine learning overview III [pdf](ml_basics_III.pdf); Numpy [pdf](numpy_intro.pdf) | [Numpy](numpy.ipynb) - Abgabe bitte zu zweit oder zu dritt |  |
 | Nov. 06, 2019 | Machine learning overview III [pdf](ml_basics_III_short.pdf); CIP guide [pdf](guide_cip.pdf) | [Pytorch](pytorch_intro.ipynb) - Abgabe bitte zu zweit oder zu dritt **bis 19.11. [Correction of Typo in Ex.1: normalize the data so that each feature has 0 mean and unit standard deviation]** | Merging of Variable and Tensor [http](https://pytorch.org/blog/pytorch-0_4_0-migration-guide/) |
 | Nov. 13, 2019 | Backpropagation [pdf](ml_basics_backpropagation.pdf); PyTorch into [pdf](pytorch_intro.pdf) |  |
-| Nov. 20, 2019 | Word2Vec [pdf](05_word2vec.pdf) |  |
+| Nov. 20, 2019 | Word2Vec [pdf](05_word2vec.pdf) | Word2Vec[pdf] (pytorch_wordEmbeddings.ipynb) |
 
 
 ## More materials
