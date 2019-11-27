@@ -37,7 +37,7 @@ The topics of this lecture are the foundations of deep learning, with a particul
 | Nov. 06, 2019 | Machine learning overview III [pdf](ml_basics_III_short.pdf); CIP guide [pdf](guide_cip.pdf) | [Pytorch](pytorch_intro.ipynb) - Abgabe bitte zu zweit oder zu dritt **bis 19.11. [Correction of Typo in Ex.1: normalize the data so that each feature has 0 mean and unit standard deviation]** | Merging of Variable and Tensor [http](https://pytorch.org/blog/pytorch-0_4_0-migration-guide/) |
 | Nov. 13, 2019 | Backpropagation [pdf](ml_basics_backpropagation.pdf); PyTorch into [pdf](pytorch_intro.pdf) |  |
 | Nov. 20, 2019 | Word2Vec [pdf](05_word2vec.pdf); Keras [pdf](07_keras.pdf) | [Word2Vec](pytorch_wordEmbeddings.ipynb) - Abgabe bitte zu zweit oder zu dritt |
-| Nov. 27, 2019 | RNN Basics [pdf](rnn_handout.pdf); CNN [pdf](cnn_handout.pdf) | Lesen für LSTM Journal Club: http://www.deeplearningbook.org/contents/rnn.html (10.0 - 10.2.1, 10.7, 10.10), http://colah.github.io/posts/2015-08-Understanding-LSTMs/ |
+| Nov. 27, 2019 | RNN Basics [pdf](rnn_handout.pdf); CNN [pdf](cnn_handout.pdf) | [pdf](exercises_ex06_lstm_ex06_lstm.pdf) |
 
 
 ## More materials
