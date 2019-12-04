@@ -26,6 +26,19 @@ The topics of this lecture are the foundations of deep learning, with a particul
  - Die Klausur findet am Mittwoch 8.1.2020 um 10:00 statt und dauert 90 Minuten. (Der Raum wird noch bekannt gegeben.)
  - Die Nachklausur findet am Samstag 22.2.2020 um 10:00 statt und dauert 90 Minuten. (Der Raum wird noch bekannt gegeben.)
  
+### Bewertung
+ - Bewertung:
+   - Zum Bestehen sind mindestens 50% der möglichen Klausurpunkte nötig (ohne Bonuspunkte!). Eine 1.0 ist auch ohne Bonuspunkte möglich. 
+   - Bei bestandener Klausur werden nach der folgenden Formel Bonuspunkte addiert:
+   - klausurpunkte_mit_bonus = g_exam + max(0, 2 * (g_bonus - 0.5)) * M / 10
+   - g_bonus = 0.67 * g_exercises + 0.33 * g_project
+ - Erklärung:
+   - Es werden nur Bonuspunkte oberhalb von 50% der möglichen Bonuspunkte angerechnet.
+   - Die angerechneten Bonuspunkte zählen für bis zu 10% der Klausurpunkte.
+   - g_exercises: Anteil der erreichten Punkte in den Übungen
+   - g_project: Anteil der erreichten Punkte im Projekt
+   - g_exam = Erreichte Punkte Klausur
+   - M = Mögliche Punkte Klausur
 
 ## Course Material
 
