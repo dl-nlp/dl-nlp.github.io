@@ -51,7 +51,7 @@ The topics of this lecture are the foundations of deep learning, with a particul
 | Nov. 13, 2019 | Backpropagation [pdf](ml_basics_backpropagation.pdf); PyTorch into [pdf](pytorch_intro.pdf) |  |
 | Nov. 20, 2019 | Word2Vec [pdf](05_word2vec.pdf); Keras [pdf](07_keras.pdf) | [Word2Vec](pytorch_wordEmbeddings.ipynb) - Abgabe bitte zu zweit oder zu dritt |
 | Nov. 27, 2019 | RNN Basics [pdf](rnn_handout.pdf); CNN [pdf](cnn_handout.pdf) | [pdf](exercises_ex06_lstm_ex06_lstm.pdf) |
-
+| Dez. 04, 2019 | Keras (slides: Nov. 20, 2019) | [Keras tagging](keras_tagging.ipynb) - Abgabe bitte zu zweit oder zu dritt |
 
 ## More materials
 - Jupyter Notebooks Tips and Tricks: [http](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
