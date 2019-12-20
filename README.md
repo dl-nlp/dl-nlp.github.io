@@ -53,7 +53,7 @@ The topics of this lecture are the foundations of deep learning, with a particul
 | Nov. 27, 2019 | RNN Basics [pdf](rnn_handout.pdf); CNN [pdf](cnn_handout.pdf) | [pdf](exercises_ex06_lstm_ex06_lstm.pdf) |
 | Dez. 04, 2019 | Keras (slides: Nov. 20, 2019) | [Keras tagging](argument_tagging.ipynb) -- Abgabe bitte zu zweit oder zu dritt -- [atis](atis.json) |
 | Dez. 11, 2019 | Attention [pdf](08_attention.handout.pdf) | | [Test Exam / Probeklausur](probe_klausur.pdf) -- There will be a Q&A Session next week. |
-| Dez. 18, 2019 | | | Relation extraction exercise (preliminary, [pdf](relation_project.pdf)); [relation_project.zip](https://cis.uni-muenchen.de/~beroth/relation_project.zip) |
+| Dez. 18, 2019 | | | Relation extraction exercise [pdf](relation_project.pdf); [relation_project.zip](https://cis.uni-muenchen.de/~beroth/relation_project.zip) |
 
 
 
