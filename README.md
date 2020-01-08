@@ -39,6 +39,10 @@ The topics of this lecture are the foundations of deep learning, with a particul
    - g_project: Anteil der erreichten Punkte im Projekt
    - g_exam = Erreichte Punkte Klausur
    - M = Mögliche Punkte Klausur
+   
+## Klausur-Ergebnisse
+- Ergebnisse der Klausur (ohne Bonuspunkte) [klausurergebnisse](klausurergebnisse)
+- Klausur-Einsicht findet statt am Freitag den 17.1. um 15 Uhr im CIS-Meetingraum (C105)
 
 ## Course Material
 
