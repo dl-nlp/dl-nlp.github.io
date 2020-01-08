@@ -49,7 +49,7 @@ The topics of this lecture are the foundations of deep learning, with a particul
 | Oct. 30, 2019 | Machine learning overview III [pdf](ml_basics_III.pdf); Numpy [pdf](numpy_intro.pdf) | [Numpy](numpy.ipynb) - Abgabe bitte zu zweit oder zu dritt |  |
 | Nov. 06, 2019 | Machine learning overview III [pdf](ml_basics_III_short.pdf); CIP guide [pdf](guide_cip.pdf) | [Pytorch](pytorch_intro.ipynb) - Abgabe bitte zu zweit oder zu dritt **bis 19.11. [Correction of Typo in Ex.1: normalize the data so that each feature has 0 mean and unit standard deviation]** | Merging of Variable and Tensor [http](https://pytorch.org/blog/pytorch-0_4_0-migration-guide/) |
 | Nov. 13, 2019 | Backpropagation [pdf](ml_basics_backpropagation.pdf); PyTorch into [pdf](pytorch_intro.pdf) |  |
-| Nov. 20, 2019 | Word2Vec [pdf](05_word2vec.pdf); Keras [pdf](07_keras.pdf) | [Word2Vec](pytorch_wordEmbeddings.ipynb) - Abgabe bitte zu zweit oder zu dritt |
+| Nov. 20, 2019 | Word2Vec [pdf](05_word2vec_corrected.pdf) -- correction: removed misleading indices on slide 25; Keras [pdf](07_keras.pdf) | [Word2Vec](pytorch_wordEmbeddings.ipynb) - Abgabe bitte zu zweit oder zu dritt |
 | Nov. 27, 2019 | RNN Basics [pdf](rnn_handout.pdf); CNN [pdf](cnn_handout.pdf) | [pdf](exercises_ex06_lstm_ex06_lstm.pdf) |
 | Dez. 04, 2019 | Keras (slides: Nov. 20, 2019) | [Keras tagging](argument_tagging.ipynb) -- Abgabe bitte zu zweit oder zu dritt -- [atis](atis.json) |
 | Dez. 11, 2019 | Attention [pdf](08_attention.handout.pdf) | | [Test Exam / Probeklausur](probe_klausur.pdf) -- There will be a Q&A Session next week. |
