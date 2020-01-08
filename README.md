@@ -41,7 +41,7 @@ The topics of this lecture are the foundations of deep learning, with a particul
    - M = Mögliche Punkte Klausur
    
 ## Klausur-Ergebnisse
-- Ergebnisse der Klausur (ohne Bonuspunkte) [klausurergebnisse](klausurergebnisse)
+- Ergebnisse der Klausur (ohne Bonuspunkte) [klausurergebnisse](klausurergebnisse.md)
 - Klausur-Einsicht findet statt am Freitag den 17.1. um 15 Uhr im CIS-Meetingraum (C105)
 
 ## Course Material
