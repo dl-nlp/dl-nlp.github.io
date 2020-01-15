@@ -58,7 +58,8 @@ The topics of this lecture are the foundations of deep learning, with a particul
 | Dez. 04, 2019 | Keras (slides: Nov. 20, 2019) | [Keras tagging](argument_tagging.ipynb) -- Abgabe bitte zu zweit oder zu dritt -- [atis](atis.json) |
 | Dez. 11, 2019 | Attention [pdf](08_attention.handout.pdf) | | [Test Exam / Probeklausur](probe_klausur.pdf) -- There will be a Q&A Session next week. |
 | Dez. 18, 2019 | | | Relation extraction exercise [pdf](relation_project.pdf); [relation_project.zip](https://cis.uni-muenchen.de/~beroth/relation_project.zip) |
-| Jan. 15, 2020 | Hyper-Parameter Optimization [pdf](hyper_params.pdf); Project Q&A | | [hyperopt.py](hyperopt.py); [count_params.py](count_params.py) |
+| Jan. 15, 2020 | Project Q&A [notes](notes_20200115.pdf)| | [count_params.py](count_params.py) |
+| Jan. 22, 2020 | Help with projects; Hyper-Parameter Optimization [pdf](hyper_params.pdf) | | [hyperopt.py](hyperopt.py) |
 
 
 ## More materials
