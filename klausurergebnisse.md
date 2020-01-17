@@ -24,7 +24,7 @@ Maximal erreichbare Punktzahl in der Klausur (ohne Bonuspunkte aus den Übungsau
 | 03709931 | 43 |
 | 12006250 | 35.5 | 
 | 11961565 | 28.5 |
-| 11165732 | 41.5 |
+| 11165732 | 42 |
 | 11349252 | 27.5 |
 | 10766715 | 45.5 |
 | 11251552 | 25.5 |
