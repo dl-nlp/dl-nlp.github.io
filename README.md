@@ -25,7 +25,10 @@ The topics of this lecture are the foundations of deep learning, with a particul
 ## Klausur
  - Die Klausur findet am Mittwoch 8.1.2020 um 10:00 statt und dauert 90 Minuten. **Raum: Theresienstr. 41 C 112**
  - Die Nachklausur findet am Samstag 22.2.2020 um 10:00 statt und dauert 90 Minuten. **Raum: Hörsaal BU101, Oettingenstr. 67**
- 
+
+## Nachklausur-Ergebnisse
+- Ergebnisse der Nachklausur [klausurergebnisse](ergebnisse_nachklausur.md)
+
 ### Bewertung
  - Bewertung:
    - Zum Bestehen sind mindestens 50% der möglichen Klausurpunkte nötig (ohne Bonuspunkte!). Eine 1.0 ist auch ohne Bonuspunkte möglich. 
@@ -40,9 +43,8 @@ The topics of this lecture are the foundations of deep learning, with a particul
    - g_exam = Erreichte Punkte Klausur
    - M = Mögliche Punkte Klausur
    
-## Klausur-Ergebnisse
-- Ergebnisse der Klausur (ohne Bonuspunkte) [klausurergebnisse](klausurergebnisse.md)
-- Klausur-Einsicht findet statt am Freitag den 17.1. um 15 Uhr im CIS-Meetingraum (C105)
+
+
 
 ## Course Material
 
