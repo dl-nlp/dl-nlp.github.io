@@ -6,7 +6,7 @@ Maximal erreichbare Punktzahl in der Klausur (ohne Bonuspunkte aus den Übungsau
 | Mind. erreichte Punkte | Note |
 |---|---|
 | 39.5 | 1 |
-| 47 | 1.3 |
+| 37 | 1.3 |
 | 34.5 | 1.7 |
 | 32 | 2 |
 | 30 | 2.3 |
