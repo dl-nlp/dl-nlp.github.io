@@ -22,7 +22,7 @@ Maximal erreichbare Punktzahl in der Klausur (ohne Bonuspunkte aus den Übungsau
 Wegen der Corona-Krise ist die Klausureinsicht auf absehbare Zeit nicht möglich.
 Ich habe deshalb bei allen Klausuren, bei denen 1 Punkt zur nächstbesseren Note gefehlt hat, die bessere Note gegeben.
 
-| Punkte (inkl. Bonus) | Note |
+|  | Punkte (inkl. Bonus) | Note |
 | 11139620 | 30 | 2.3 |
 | 11192208 | 25 | 3 |
 | 10959060 | 20.2 | 4 |
